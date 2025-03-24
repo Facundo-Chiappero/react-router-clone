@@ -1,6 +1,6 @@
 ## ESPAÑOL:
 
-Puedes acceder al sitio web desde el siguiente enlace desde tu PC o celular: [https://react-router-clone.netlify.app/](#https://react-router-clone.netlify.app/)
+Puedes acceder al sitio web desde el siguiente enlace desde tu PC o celular: [React Router Clone](https://react-router-clone.netlify.app/){:target="_blank"}
 
 # Clon de React Router con React
 
@@ -45,7 +45,7 @@ npm run dev
 
 ## ENGLISH:
 
-You can access the website from the following link on your PC or mobile device: [https://react-router-clone.netlify.app/](#)
+You can access the website from the following link on your PC or mobile device: [React Router Clone](https://react-router-clone.netlify.app/){:target="_blank"}
 
 # React Router Clone with React
 
